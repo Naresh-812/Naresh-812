@@ -32,13 +32,7 @@ SystemVerilog • Verilog • C/C++ • Python • MATLAB
 AMD/Xilinx Vivado • Vitis • Vitis AI • Vitis HLS • PetaLinux • AXI • AXI DMA • Zynq MPSoC • Kria KV260/KR260
 
 **DSP & AI:**
-FMCW Radar • FFT • Range-Doppler Processing • CFAR • Kalman Filtering • CNN Acceleration • INT8 Quantization
-
-**Verification & EDA:**
-Synopsys VCS • Cadence Xcelium • QuestaSim • Yosys • OpenROAD
-
-**Tools:**
-Linux • Git • Docker
+FMCW Radar • FFT • Range-Doppler Processing • CFAR • Kalman Filtering • CNN Acceleration • INT8 Quantizatio
 
 ### Featured Projects
 
